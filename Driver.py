@@ -2,7 +2,7 @@
 # Problem 4 - main loop to run the Command Line News app
 
 
-from command_line_news import CommandLineNews
+from CommandLineNews import CommandLineNews
 
 def main():
     # inputs
